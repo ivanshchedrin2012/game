@@ -306,11 +306,4 @@ MIT License - см. [LICENSE](LICENSE) файл для деталей
 ## 🤝 Вклад в проект
 Мы приветствуем вклад в развитие проекта! Подробности в [CONTRIBUTING.md](CONTRIBUTING.md)
 
-## 📞 Поддержка
-- **GitHub Issues:** [Создать issue](https://github.com/your-username/multi-genre-game/issues)
-- **Email:** support@example.com
-- **Discord:** [Присоединиться к серверу](https://discord.gg/your-server)
-
----
-
 **Сделано с ❤️ в России**
